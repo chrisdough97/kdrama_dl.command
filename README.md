@@ -1,6 +1,6 @@
 # kdrama_dl.command
 
-MacOS downloader script for [https://goplay.anontpp.com](https://goplay.anontpp.com)
+MacOS downloader script for [https://goplay.ml](https://goplay.ml)
 
 Forked from the one made by lastmodified: https://github.com/lastmodified/kdrama_dl.command
 
@@ -15,7 +15,7 @@ After installing, the downloader script ``kdrama_dl.command`` will be in the ``k
 ### 1. Manual Install
 
 1. Create a folder ``kdramadl`` in your Downloads folder
-1. Download the [latest script zip](https://github.com/lastmodified/kdrama_dl.command/archive/master.zip) and unzip it into the ``kdramadl`` folder
+1. Download the [latest script zip](https://github.com/ArmsAsuncion/kdrama_dl.command/archive/master.zip) and unzip it into the ``kdramadl`` folder
 1. By now you should have the files below in the ``kdramadl`` folder:
     - ``kdrama_dl.command``
     - ``install_ffmpeg.command``
