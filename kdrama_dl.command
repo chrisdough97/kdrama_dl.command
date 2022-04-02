@@ -31,7 +31,8 @@ C_WARNING='\033[93m'
 C_OKBLUE='\033[94m'
 C_OKGREEN='\033[92m'
 
-HOSTNAME='goplay.anontpp.com'
+HOSTNAME='goplay.ml'
+# HOSTNAME='goplay.anontpp.com'
 # HOSTNAME='kdrama.armsasuncion.com'
 
 function wait_ack {
